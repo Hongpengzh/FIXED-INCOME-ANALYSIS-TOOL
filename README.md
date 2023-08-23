@@ -1,6 +1,6 @@
 # FIXED INCOME ANALYSIS TOOL
 A very user-friendly calculator application created using Python, easy to calculate some key indicators for bonds, 
-like Macaulay duration, Credit spread, Option prices, Horizon yield, and so on. 
+including Macaulay duration, Credit spread, Option prices, Horizon yield, swap rates, and Binomial tree. 
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
