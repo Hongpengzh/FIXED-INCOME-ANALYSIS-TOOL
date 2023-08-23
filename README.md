@@ -21,6 +21,5 @@ Run the FIA_TOOL.py file. All required packages were listed in the environment.y
 
 
 ## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcome.
-If you find any issue just put it in the repository issue section, thank you.
+The reason why I developed this software is, that I found it fussy, tedious, and very easy to make mistakes when I calculated some key indicators using a calculator or Excel for fixed income securities, and there was not any app or software designed dedicated for fixed income analysis, so I just decided to develop one by myself. You are very welcome to check the app and source codes here on GitHub, especially for those who are trying to invest in some bonds or preparing for their CFA tests, this app may help. Looking forward to any feedback!
 
