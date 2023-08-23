@@ -5,7 +5,7 @@ like Macaulay duration, Credit spread, Option prices, Horizon yield, and so on.
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Thank You!
-Please ⭐ this repo if you think it's useful.
+Please ⭐ this repo if you think this is helpful.
 
 ## Screenshots
 ![Toplevel](screenshots/Top-level-window.png)
