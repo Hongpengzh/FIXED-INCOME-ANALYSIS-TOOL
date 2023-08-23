@@ -8,8 +8,7 @@ like Macaulay duration, Credit spread,Option prices, Horizon yield, and so on.
 Please ⭐ this repo if you think it's useful.
 
 ## Screenshots
-![Toplevel](screenshots/Top level window.png)
-![Duration](screenshots/Duration calculator.png)
+![Toplevel](screenshots/Top level window.png)![Duration](screenshots/Duration calculator.png)
 ![Optioninput](screenshots/Options price calculator.png)
 ![Optionoutput](screenshots/Options price output.png)
 
