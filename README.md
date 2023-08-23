@@ -17,7 +17,7 @@ Please ⭐ this repo if you think it's useful.
 * Python 3.10 or higher.
 
 ## How to use
-Just download the **FIA_TOOL.exe** and run it to use. Everything is already packaged in the file, maybe it needs a few seconds to run.
+Run the FIA_TOOL.py file. All required packages were listed in the environment.yaml file.
 
 
 ## Contributing 💡
